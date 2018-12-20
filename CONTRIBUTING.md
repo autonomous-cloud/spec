@@ -10,3 +10,6 @@ follow so that we can have a chance of keeping on top of things.
 Please use issues for discussing proposals or to raise a question. If you
 have improvements to the autonomous cloud fabric please submit a pull 
 request.
+
+Please note that as the project grows over time, so will the contributing
+guidelines :-)
